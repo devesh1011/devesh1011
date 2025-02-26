@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Devesh!<br>🚀 AI Engineer | LLM Expert | Building Scalable AI Agents<br><br>I'm a final-year CS student passionate about AI, NLP, and AI agentic systems. My expertise lies in LLM fine-tuning, RAG (Retrieval-Augmented Generation), and AI-driven automation. I also have experience in backend development, optimizing data pipelines, and deploying scalable AI solutions.<br><br>💡 What I Work On:<br>🔥 Building AI-powered applications using LangChain, OpenAI, and Hugging Face<br>🧠 Experimenting with LLM fine-tuning and multimodal AI<br>⚙️ Architecting scalable AI agents and backend systems with FastAPI, Docker, AWS, and MLOps
+👋 Hi, I'm Devesh!<br><br>I'm a final-year CS student passionate about AI, NLP, and AI agentic systems. My expertise lies in LLM fine-tuning, RAG (Retrieval-Augmented Generation), and AI-driven automation. I also have experience in backend development, optimizing data pipelines, and deploying scalable AI solutions.<br><br>💡 What I Work On:<br>🔥 Building AI-powered applications using LangChain, OpenAI, and Hugging Face<br>🧠 Experimenting with LLM fine-tuning and multimodal AI<br>⚙️ Architecting scalable AI agents and backend systems with FastAPI, Docker, AWS, and MLOps
 
 
 ## 🌐 Socials:
