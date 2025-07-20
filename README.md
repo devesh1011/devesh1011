@@ -25,6 +25,6 @@
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Akash Biswas](https://www.linkedin.com/in/devesh1011/)
-- **GitHub**: [akashbiswas0](https://github.com/devesh1011)
+- **LinkedIn**: [Devesh](https://www.linkedin.com/in/devesh1011/)
+- **GitHub**: [devesh1011](https://github.com/devesh1011)
 - **Email**: deveshk237@gmail.com
