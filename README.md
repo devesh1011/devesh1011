@@ -1,26 +1,37 @@
-# 👋 About Me
+# Hi, I'm Devesh 👋
 
-AI Engineer skilled in multi-agent systems, RAG architectures, and real-time LLM orchestration. Proficient in Python, TypeScript, Docker, AWS, and full-stack AI deployment. Strong in system design, guardrails, and production-grade AI workflows. Currently exploring AI x Web3.
+Python Backend Developer focused on building reliable, production-ready APIs and backend systems.
 
-## 🌱 My Recent Projects
-
-- **MAS Market**: Real-time agentic prediction market platform consists of AI agents work together to analyze events and make intelligent predictions. Built with LangChain, LangGraph, and A2A protocol for agent messaging
-- **Mana AI**: Adaptive AI-driven platform crafting personalized courses and interactive learning journeys. Tech stack includes Google ADK as the agent framework, OpenAI, Langsmith, React.js.
-- **seim0**: Decentralized memory layer built on the Sei blockchain, storing AI memories via smart contracts + IPFS for immutable, accessible memory infrastructure.
+I work primarily with Python and FastAPI to design REST APIs, background job systems, and data-driven services. I enjoy debugging, optimizing performance, and making backend systems stable and maintainable.
 
 ---
 
-## 👨‍💻 Tech Stack
+## 🛠 What I Work With
 
-- **Programming Languages**: Python, SQL, JavaScript, TypeScript
-- **Machine Learning**: Pandas, Numpy, Scikit-Learn, PyTorch, TensorFlow
-- **AI**: Langchain, Langgraph, CrewAI, Google ADK, Pincone, RAG, Multi Agent Systems
-- **Plaform & Tools**: Git, Docker, AWS, GCP, Nginx, HuggingFace
+- **Languages**: Python, SQL, JavaScript (basic)
+- **Backend**: FastAPI, REST APIs, WebSockets
+- **Databases**: PostgreSQL, MySQL, Redis
+- **Async & Queues**: Celery, RabbitMQ
+- **DevOps**: Docker, Basic Kubernetes, Nginx
+- **Tools**: Git, Linux, Postman
 
 ---
 
-## 🌐 Connect with Me
+## 📌 Featured Projects
 
-- **LinkedIn**: [Devesh](https://www.linkedin.com/in/devesh1011/)
-- **X**: [devesh_1011](https://x.com/devesh_1011)
-- **Email**: deveshk237@gmail.com
+### Backend Chat Application
+Real-time backend service built with FastAPI and WebSockets.  
+Includes background processing using Redis and RabbitMQ to handle asynchronous workloads.
+
+### Image Processing Backend Service
+FastAPI-based backend for handling asynchronous image processing jobs with status tracking and job queues.
+
+### Video to MP3 Converter
+Backend service for media processing using message queues and efficient file storage, designed to handle concurrent requests reliably.
+
+---
+
+## 📫 Contact
+
+- **Email**: deveshk237@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/devesh1011
