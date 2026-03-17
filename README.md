@@ -1,8 +1,10 @@
-# Hi, I'm Devesh 👋
+## About Me 💬
+Core languages include Python, Javascript, Typescript, and Rust. </br>
+Areas of interest: Web3, AI and Backend Systems.
 
-Python Backend Developer focused on building reliable, production-ready APIs and backend systems.
+</br>
+</br>
 
-I work primarily with Python and FastAPI to design REST APIs, background job systems, and data-driven services. I enjoy debugging, optimizing performance, and making backend systems stable and maintainable.
 
 ---
 
