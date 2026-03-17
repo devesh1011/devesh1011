@@ -2,7 +2,6 @@
 Core languages include Python, Javascript, Typescript, and Rust. </br>
 Areas of interest: Web3, AI and Backend Systems.
 
-</br>
 
 ## Hackathon Wins
 
@@ -21,9 +20,6 @@ Areas of interest: Web3, AI and Backend Systems.
 ### AI & Backend Projects
 - **[AI Companion Chat App](https://github.com/devesh1011/ai-companion-chat-app)**: A real-time chat platform where users converse with AI characters powered by Google Gemini, built with microservices architecture.
 - **[Adaptly](https://adaptly-five.vercel.app)**: Turn your Original Ad Image into 20+Localized Assets. Instantly.
-
-
----
 
 ## 📫 Contact
 
