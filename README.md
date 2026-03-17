@@ -4,15 +4,11 @@ Areas of interest: Web3, AI and Backend Systems.
 
 </br>
 
----
-
 ## Hackathon Wins
 
 - **Agno Global Agents Hackathon**: Honourable Mention
 - **SubZero Hack**: Won in Arkiv track
 - **Elixir Hackathon**: Honourable Mention
-
----
 
 ## Projects
 
