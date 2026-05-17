@@ -5,6 +5,7 @@ Areas of interest: Web3, AI and Backend Systems.
 
 ## Hackathon Wins
 
+- **Ethglobal Open Agents**: Gensyn Track
 - **Agno Global Agents Hackathon**: Honourable Mention
 - **SubZero Hack**: Won in Arkiv track
 - **Elixir Hackathon**: Honourable Mention
