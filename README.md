@@ -25,5 +25,5 @@ Areas of interest: Web3, AI and Backend Systems.
 ## 📫 Contact
 
 - **Email**: deveshk237@gmail.com
-- **X**: @deveshcodes_
+- **X**: @deveshtwt_
 - **LinkedIn**: https://www.linkedin.com/in/devesh1011
